@@ -1,0 +1,1 @@
+find ./*~ -name '#*.txt' -print -delete -or -name '*#.txt' -print -delete 
